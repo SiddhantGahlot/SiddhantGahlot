@@ -11,4 +11,4 @@
 📫 How to Reach Me
 Email: sg9407176@gmail.com
 LinkedIn: Siddhant Kumar
-GitHub: github.com/@SiddhantGahlot
+GitHub: https://github.com/SiddhantGahlot/SiddhantGahlot
