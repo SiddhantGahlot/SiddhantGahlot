@@ -6,7 +6,7 @@
 
 💻 I'm passionate about software development and have hands-on experience in Python, C, C++, JAVA, and SQL.
 
-🛠️ I'm currently interning as a Python Programmer at CodeAlpha.
+🛠️ I'm currently interning as a Python Programmer at CodeAlpha and MyDailyWork.
 
 🧠 I’m always eager to learn new technologies and improve my skills in software development and problem-solving.
 
