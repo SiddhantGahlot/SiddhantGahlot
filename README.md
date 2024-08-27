@@ -15,9 +15,6 @@
 💼 I'm actively seeking opportunities where I can apply my skills and contribute to innovative projects.
 
 📫 How to Reach Me
-
-Email: sg9407176@gmail.com
-
-LinkedIn: https://linkedin.com/in/siddhant-gahlot-b91929308
-
-GitHub: https://github.com/SiddhantGahlot/SiddhantGahlot
+- **Email:** sg9407176@gmail.com
+- **LinkedIn:** https://linkedin.com/in/siddhant-gahlot-b91929308
+- **GitHub:** https://github.com/SiddhantGahlot/SiddhantGahlot
