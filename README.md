@@ -17,4 +17,4 @@
 📫 How to Reach Me
 - **Email:** sg9407176@gmail.com
 - **LinkedIn:** https://linkedin.com/in/siddhant-gahlot-b91929308
-- **GitHub:** https://github.com/SiddhantGahlot/SiddhantGahlot
+- **GitHub:** https://github.com/SiddhantGahlot
