@@ -1,7 +1,7 @@
 **👋 Hi, I'm Siddhant Kumar**
 
 **🌐 About Me**
-- **🎓 I'm currently pursuing a Bachelor of Computer Applications (BCA) at MJPRU, Bareilly.**
+- **🎓 I'm currently pursuing Master's of Computer Applications (MCA) at AKTU, Lucknow.**
 - **💻 I'm passionate about software development and have hands-on experience in Python, HTML, C, C++, JAVA, and SQL.**
 - **🛠️ I'm currently interning as a Python Programmer at CodeAlpha and a Web Developer at Prodigy InfoTech.**
 - **🧠 I’m always eager to learn new technologies and improve my skills in software development and problem-solving.**
